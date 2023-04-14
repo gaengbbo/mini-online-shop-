@@ -1,6 +1,6 @@
 # Mini Online shop 
 
-### HTML, CSS, Javascript 연습용 프로젝트
+#### HTML, CSS, Javascript 연습용 프로젝트
 
 + javascript를 이용하여 HTML 추가 변경.
 + CSS로 원하는 형태의 사이트를 디자인.
