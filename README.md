@@ -1,5 +1,4 @@
 # Mini Online shop 
-------------------
 
 ### HTML, CSS, Javascript 연습용 프로젝트
 
