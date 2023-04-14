@@ -20,5 +20,6 @@
 
 ```javascript
   displayItems(items.filter((item) => item[key] === value));
+```
 
 README작성 연습중입니다..^^
